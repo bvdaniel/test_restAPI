@@ -1,0 +1,21 @@
+- IA que te ayuda a componer nuevas originales canciones basandose en tu coleccion de sonidos
+y bases del estilo que te gustaría mezclar.
+ej: 2 horas de mi tocando + 20 horas de bases de ICE Cube & 3 de los inicios de shakira
+
+- IA doctor de filosofía, psicología para ayudar a los que sufren enfermedades mentales
+tales como la ansiedad, depresión, y otros. Se alimenta de los mejores 
+exponentes de youtube y crea sesiones personalizadas a partir de una conversación previa
+
+-IA que escucha la música o video que reproduces en youtube/spotify para crear una canción de fondo para la publicidad 
+que aparece en tu video. Así no destruye tu atmósfera y eres más abierto a escucharla.
+
+
+- kickstarter xq con esas lucas desarrollamos, necesito lucas para una estación de soldado.
+- Proyectar pega 15 días.
+- Daphne, movemos paltas? hagamos un mini-kickstarter? 
+    https://articulo.mercadolibre.cl/MLC-461544958-estacion-soldadura-con-termostato-200-480c-60w-_JM#position=4&type=item&tracking_id=d22ac20d-8547-497c-935a-8450dfebd01c
+    + proto, kit de soldadura, + stepup 5v - 12 v + 
+- Ver video y hacer rest:api
+- Spencer: hay venta en verde? Si no, me muevo a daphne
+- Poly: Revisaste la web?
+- Step-up de 5 V a 12 V
